@@ -7,15 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1wbZBKqLVFx90YBRrHEVOY7tYhy2ghwVY
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
-import sys
 
-sys.path.append('/content/drive/MyDrive/Colab Notebooks')
-
-pip install opacus
-
-!pip install medmnist
 
 import os
 import random

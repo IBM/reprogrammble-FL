@@ -19,8 +19,6 @@
 
 pip install opacus
 
-pip install opacus
-
 conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 
 pip install medmnist (optional for the medmnist dataset)

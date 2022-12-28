@@ -1,7 +1,8 @@
 # Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming
 
-![image](https://github.com/IBM/reprogrammble-FL/blob/main/dom_final_4.pdf)
 
+
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/91891697/209747066-79185fe0-3f1d-4c9b-a2dc-580138904ab4.png">
 
 
 

@@ -24,7 +24,18 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvi
 pip install medmnist (optional for the medmnist dataset)
 
 
-# Training
+# Training the centralized setting
+
+python MR_Centralized.py ( For running the Reprogrammable  Algorithm with DP SGD)
+
+python BL_TS_Cent.py ( For running the Training from Scratch Algorithm with DP SGD)
+
+python BL_FF_Cent.py ( For running the Fully Finetuning Algorithm with DP SGD)
+
+python BL_PS_Cent.py ( For running the Partial Finetuning Algorithm with DP SGD)
+
+
+# Training the federated setting
 
 python reprog_fl.py ( For running the Reprogrammable FL Algorithm with DP SGD)
 
